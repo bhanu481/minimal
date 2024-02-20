@@ -19,10 +19,3 @@ fog visibility range estimation algorithm for autonomous driving application. Th
 ### Large image
 
 ![Branching](https://github.com/bhanu481/minimal/blob/master/assets/img/fog.jpg)
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```

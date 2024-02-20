@@ -1,6 +1,17 @@
-title: Bhanu prakash Kondoju
+title: <p align="center"> Bhanu prakash Kondoju </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+description: 
+    <p align="center">
+    <a href="pdf/resume.pdf">Resume</a>
+    <a href="https://www.linkedin.com/in/bhanu-prakash-kondoju-27485043/">LinkedIn</a> |
+    <a href="https://github.com/bhanu481">GitHub</a>
+    
+    <br>
+    I'm Working on Computer vision, Machine learning and Deep learning algorithms and tools.
+    Also femilior with Hardware porting and optimization TDA3X platform.
+    Working in ZF India Pvt Ltd for 5 years
+    <br>
+    </p>
+#show_downloads: true
+#google_analytics:
 theme: jekyll-theme-minimal
